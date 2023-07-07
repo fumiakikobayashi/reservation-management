@@ -1,7 +1,7 @@
 package Shared
 
 import (
-	"backend/backend/src/Shared"
+	"backend/src/Shared"
 )
 
 type SortOrder string

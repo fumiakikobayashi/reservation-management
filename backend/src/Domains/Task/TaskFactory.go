@@ -1,8 +1,8 @@
 package Domains
 
 import (
-	"backend/backend/src/Infrastructures/Models"
-	"backend/backend/src/Shared"
+	"backend/src/Infrastructures/Models"
+	"backend/src/Shared"
 )
 
 func CreateTask(taskModel Models.TaskModel) (*Task, error) {

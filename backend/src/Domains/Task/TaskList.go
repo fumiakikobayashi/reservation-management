@@ -1,7 +1,7 @@
 package Domains
 
 import (
-	"backend/backend/src/Shared"
+	"backend/src/Shared"
 )
 
 type TaskList struct {
